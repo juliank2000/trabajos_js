@@ -1,0 +1,19 @@
+.nav-link{
+background-color: #d5551e;
+}
+div{
+   background-color: #2dc57e;
+ 
+} 
+img{
+  max-width:100%;
+  width:auto;
+  height:auto;
+  
+}
+a.nav-link{
+  border-radius: 10px;
+  padding: 12px;
+  margin: 1px;
+}
+
